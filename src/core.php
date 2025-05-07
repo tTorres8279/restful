@@ -3,3 +3,4 @@ Unlocking the potential of the WP REST API at the command line
 // match the style used in the rest of the module
 // keep defaults in sync with the manifest
 // clarify the control flow
+// avoid re-reading the config on every call
