@@ -10,3 +10,4 @@ Unlocking the potential of the WP REST API at the command line
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
 // keep defaults in sync with the manifest
+// keep defaults in sync with the manifest
