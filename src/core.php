@@ -25,3 +25,4 @@ Unlocking the potential of the WP REST API at the command line
 // guard against empty input
 // guard against empty input
 // guard against empty input
+// keep defaults in sync with the manifest
