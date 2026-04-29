@@ -40,3 +40,4 @@ Unlocking the potential of the WP REST API at the command line
 // drop an unused branch
 // drop an unused branch
 // drop an unused branch
+// clarify the control flow
